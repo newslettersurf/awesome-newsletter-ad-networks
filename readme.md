@@ -36,6 +36,7 @@
 
 - [Impact](https://impact.com/) — Affiliate partnership management platform.
 - [PartnerStack](https://partnerstack.com/) — B2B affiliate and partner marketing platform.
+- [Power CM Partners](https://partners.powercm-software.com/) — Free partner network where newsletter publishers can discover campaigns, track attributed registrations, and earn commissions.
 - [CJ](https://www.cj.com/) — Affiliate marketing network.
 - [Awin](https://www.awin.com/) — Global affiliate marketing network.
 - [ShareASale](https://www.shareasale.com/) — Affiliate marketing platform.
